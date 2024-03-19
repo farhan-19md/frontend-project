@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+    <link rel="stylesheet" href="project.css">
+    <link rel="icon" href="./assets/images/favicon-32x32.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <section class="main-section">
+            <div class="left-box">
+                <h4 class="first-left__title">Your Result</h4>
+                <div class="circle-left">
+                    <h1 class="second-title__left">76</h1>
+                    <span class="first-left__span">of 100</span>
+                </div>
+                <h2 class="third-left__title">Great</h2>
+                <div class="explains">
+                    <p class="paragraph">You scored higher than 65% of the people who have taken these tests.</p>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
